@@ -1,0 +1,29 @@
+{
+  "name": "ycphp",
+  "type": "framework",
+  "description": "Yc PHP Framework",
+  "keywords": [
+    "Yc PHP framework"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+    "filp/whoops": "2.*",
+    "symfony/var-dumper": "^3.2"
+  },
+  "authors": [
+    {
+      "name": "mrc",
+      "email": "admin@muyebar.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    },
+    {
+      "packagist": false
+    }
+  ]
+}
